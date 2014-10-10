@@ -1,3 +1,5 @@
+![Icon](https://d30y9cdsu7xlg0.cloudfront.net/icon_uploads/9c288a7d-a8e5-4e55-8af3-472d7b3f9981.svg?Expires=1412936889&Signature=CV3ZZ0uy6lEp~RozR8upl1ics4rQE0dn~TACVraMoR8ODDxODQQtfOaUc3Lc2TcTyDvchLjroeUF4Xo~RAhd17crg3U6mslLXRonhW9dpSSz7226lOgUHAwUoA0XfdVqG0pJfUxPC9oh3Eyd8xks3hPIM9iVqFqozfvEOowRR~4_&Key-Pair-Id=APKAI5ZVHAXN65CHVU2Q)
+
 Berry
 =====
 
@@ -21,3 +23,8 @@ Why the name Berry?
 ===================
 
 No particular reason, just if you think about an actual berry (you know the fruit), they consist of small components. This is exactly what this library is all about.
+
+Icon
+====
+
+Icon courtesy of [The Noun Project](http://thenounproject.com)
